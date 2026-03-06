@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "my-server": {
+      "command": "python",
+      "args": ["-m", "src.server"],
+      "cwd": "/path/to/mcp-server-template"
+    }
+  }
+}
